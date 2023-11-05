@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course: ECON 221 - Intermediate Macroeconomics"
 permalink: /teaching/2022-fall-teaching-2
 venue: "Department of Economics"
-date: December 2022 - January 2023
+date: September 2022 - December 2022
 location: "Lahore, Pakistan"
 excerpt: "TA of Professor Usman Elahi"
 
