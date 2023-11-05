@@ -14,23 +14,26 @@ I owe a debt of gratitude to my esteemed professors, Dr. Ihsan Ayub Qazi, Dr. Mu
 
 This section is dedicated to recounting my never-ending learning journey. I am committed to facing challenges head-on, exploring peer-reviewed journals, implementing newfound knowledge wherever possible, and, most importantly, embracing a spirit of perpetual learning.
 
-### Recount 1: Paper Title
+### Recount 1: Value set iteration for two-person zero-sum Markov games
 
-**Citation:** [Author(s). "Paper Title." *Journal Name*, Year, Volume, Pages, DOI](Link to paper)
+**Citation:** [Chang, Hyeong Soo. "Value set iteration for two-person zero-sum Markov games." Automatica 76 (2017): 61-64.](https://www.sciencedirect.com/science/article/pii/S0005109816304022?casa_token=AQJCvVqQsFoAAAAA:WEBXNexF9BlhIvp_V1PyXC6byIco-Cw_FhZK1qyvCpWvOO33KEbMIoaJOdjDkjTuHolV9IoxKWU)
 
 #### Overview:
-- Briefly describe the key concepts and findings of the paper.
-- Highlight the methodology and approach used by the authors.
+- The author ingeniously uses the concepts of policy/value set iteration i.e. generalized versions of policy and value iteration respecitvely to pose the standard bellman optimality algorithm as a *exact* mini-max game.
+- Furthemore, the author shows great understanding of contraction mappings and using it to prove that the value set iteration algorithm shows atleast linear convergence for standard MG's unlike some variants of VI which require expnonential/polynomial convergence.
+- Moreover, the author also shows that by optimally choosing a set of policies at the begining of each iteration (denoted as Policy Switching), VSI can potentially improve the convergence speed in terms of the number of iterations.
 
 #### Key Takeaways:
-- Mention what you found most interesting or impactful in this paper.
-- Identify any questions or areas that you believe require further exploration.
+- Before reading this paper, I had only come across *exact* terminology when studying gradient descent and its various learning step methodologies including backtracking line search, inexact line search and **exact** line search. 
+- It seemed quiti intuitive and simple at first, i.e. trying to find the optimal learning step by minimizing over all possiblities and choosing the one giving the lowest function value. But I quickly realized that solving this optimization problem is not practical for large scale systems.
+- Here similarly in this picture, exact value set iteration i.e. choosing optimal *Expected Future Discounted Reward/Cost* at each iteration does seem to work quite well.  
+- However, I believe its precisely due to the exact approach the author expresses that the algorithm is vulnerable to the curse of dimensionality and for large state/action spaces, the VSI algorithm becomes intractable. 
 
 #### Notes/Implementation:
-- Provide references to your personal notes or any implementation you've done related to this paper.
-- Include links to any code or documentation you've created.
+- Currently working on implementing VSI and VSI - PS on 2D 3x3/4x4 Tic Tac Toe.
+- Also thinking of extending it to 3D Tic Tac Toe but that may require some Deep Neural Networks to come into play to overcome the issue of curse of dimensionality.
 
-### Recount 2: Paper Title
+### Recount 2: Paper Title - Work in Progress
 
 **Citation:** [Author(s). "Paper Title." *Journal Name*, Year, Volume, Pages, DOI](Link to paper)
 
@@ -46,7 +49,7 @@ This section is dedicated to recounting my never-ending learning journey. I am c
 - Include references to your own notes and any practical implementations or experiments you've conducted.
 - Provide links to your code, if applicable.
 
-### Recount 3: Paper Title
+### Recount 3: Paper Title - Work in Progress
 
 **Citation:** [Author(s). "Paper Title." *Journal Name*, Year, Volume, Pages, DOI](Link to paper)
 
