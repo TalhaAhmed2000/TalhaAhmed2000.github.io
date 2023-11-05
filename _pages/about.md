@@ -16,7 +16,7 @@ My research interests encompass a wide range of exciting topics, including:
 - Reinforcement Learning 🕹️
 - Unrolled Optimization Frameworks 📈
 
-Currently, I'm working on a senior year project, focusing on the development of a fast and efficient unrolled algorithm for robust matrix completion. 🎯
+<!-- Currently, I'm working on a senior year project, focusing on the development of a fast and efficient unrolled algorithm for robust matrix completion. 🎯 -->
 
 Feel free to explore my academic journey and projects on this website. Thanks for visiting! 😊
 
