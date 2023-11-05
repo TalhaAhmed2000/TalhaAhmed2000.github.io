@@ -8,6 +8,12 @@ redirect_from:
 ---
 
 
+In the ever-evolving field of data science, continuous learning is not just an option but a necessity. The rapid pace at which this field is growing demands a commitment to self-improvement and the acquisition of new knowledge and skills. My journey into data science, a significant shift from my original focus in econometrics and mathematics, was accompanied by an even greater need for self-learning.
+
+I owe a debt of gratitude to my esteemed professors, Dr. Ihsan Ayub Qazi, Dr. Muhammad Tahir, and Dr. Hassan Mohy-ud-Din. Their unwavering support and guidance not only kept me motivated but also taught me the value of appreciating the learning process, rather than solely fixating on the end results.
+
+This section is dedicated to recounting my never-ending learning journey. I am committed to facing challenges head-on, exploring peer-reviewed journals, implementing newfound knowledge wherever possible, and, most importantly, embracing a spirit of perpetual learning.
+
 
 
 
