@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assitantship"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate Course: ECON 221 - Intermediate Macroeconomics"
+permalink: /teaching/2022-fall-teaching-2
+venue: "Department of Economics"
+date: December 2022 - January 2023
+location: "Lahore, Pakistan"
+excerpt: "TA of Professor Usman Elahi"
+
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+As a Teaching Assistant for Professor Usman Elahi, I had various responsibilities during the 'ECON 221: Intermediate Macroeconomics' course in Fall 2022. My duties included holding weekly office hours, reviewing, invigilating, and grading quizzes, as well as creating, reviewing, solving assignments. I also engaged in semi-formal student counseling.
