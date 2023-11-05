@@ -7,4 +7,4 @@ collection: portfolio
 # date: Spring 2021
 ---
 
-Using real-time captured instances and tools like Tracker and ImageJ, the velocity of ISS was predicted. [Lab Project Presentation](https://docs.google.com/presentation/d/1pRJkmKrW58HRmD6d7lM3M2KF-GXX7kJb/edit?usp=sharing&ouid=111485208043544286491&rtpof=true&sd=true)
+As part of a research project for PHY 100: Experimental Physics Lab I, we used real-time captured instances and tools like Tracker and Image to predict the velocity of ISS. [Lab Project Presentation](https://docs.google.com/presentation/d/1pRJkmKrW58HRmD6d7lM3M2KF-GXX7kJb/edit?usp=sharing&ouid=111485208043544286491&rtpof=true&sd=true)

@@ -7,4 +7,4 @@ collection: portfolio
 # date: Fall 2020
 ---
 
-Implemented software capable of detecting different arrhythmia types through ECG data. [Project Video](https://www.youtube.com/watch?v=1_y10x_kIUc)
+As part of a research project for EE 100: Engineering Laboratory, we implemented a software capable of detecting different arrhythmia types through ECG data. [Project Video](https://www.youtube.com/watch?v=1_y10x_kIUc)
