@@ -1,10 +1,11 @@
 ---
-title: "STATA Workshop"
+title: "Capacity Building and Training on Data Management & Analysis Using STATA."
 collection: teaching
 type: "Workshop"
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2022-fall-teaching-1
+venue: "Hotel One, Mall Road"
+date: December 2022 - Janurary 2023
+location: "Lahore, Pakistan"
 ---
 
 I served as a Teaching Assistant for Professor Usman Elahi during the 'Capacity Building and Training on Data Management & Analysis Using STATA.' This workshop was organized in collaboration with the Bureau of Statistics, Government of Punjab, for Statistical Officers.
