@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Hello Everyone!"
+title: "Hello Everyone! I'm Talha 👋"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Hello Everyone. I'm Talha! 👋
 
 I'm an undergraduate senior at Lahore University of Management Science (LUMS), pursuing a joint major in **BS Economics** and **Mathematics**, with a minor in **Computer Science**. 🎓
 
