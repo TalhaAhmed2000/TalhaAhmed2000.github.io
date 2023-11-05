@@ -1,6 +1,6 @@
 ---
 title: "Gamifying Media Literacy Interventions for Low Digitial Literacy Populations "
-collection: learnjourney
+collection: learnjourneys
 permalink: /learnjourney/self-journey-1
 excerpt: 'Built a *Digital Literacy* app using shiny framework in **R** under the supervision of Dr.Ihsan Ayub Qazi'
 date: 2023-03-20
