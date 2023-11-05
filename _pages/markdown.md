@@ -25,7 +25,7 @@ This section is dedicated to recounting my never-ending learning journey. I am c
 
 #### Key Takeaways:
 - Before reading this paper, I had only come across *exact* terminology when studying gradient descent and its various learning step methodologies including backtracking line search, inexact line search and **exact** line search. 
-- It seemed quiti intuitive and simple at first, i.e. trying to find the optimal learning step by minimizing over all possiblities and choosing the one giving the lowest function value. But I quickly realized that solving this optimization problem is not practical for large scale systems.
+- It seemed quiti intuitive and simple at first, i.e. trying to find the optimal learning step by minimizing over all possiblities and choosing the one giving the lowest function value. But one swiftly realizes that solving this optimization problem is not practical for large scale systems.
 - Here similarly in this picture, exact value set iteration i.e. choosing optimal *Expected Future Discounted Reward/Cost* at each iteration does seem to work quite well.  
 - However, I believe its precisely due to the exact approach the author expresses that the algorithm is vulnerable to the curse of dimensionality and for large state/action spaces, the VSI algorithm becomes intractable. 
 
