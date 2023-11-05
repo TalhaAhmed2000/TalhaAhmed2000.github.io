@@ -14,5 +14,3 @@ citation: 'Ayesha Ali, Agha Ali Raza, Ihsan Ayyub Qazi. (2023). "Validated digit
 - The app evaluates a person's digital literacy score (between 0 and 1) given a set of answers to a questionnaire
 
 [Download paper here](https://www.sciencedirect.com/science/article/pii/S2352728523000015)
-
-Recommended citation: Ayesha Ali, Agha Ali Raza, Ihsan Ayyub Qazi. (2023). "Validated digital literacy measures for populations with low levels of internet experiences." <i>Development Engineering</i>. 8(2023).
