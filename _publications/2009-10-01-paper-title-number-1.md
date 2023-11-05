@@ -3,7 +3,7 @@ title: "Gamifying Media Literacy Interventions for Low Digitial Literacy Populat
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Built a *Digital Literacy* app'
-date: 2023-03
+date: 2023-03-20
 venue: 'Networks Systems @ LUMS'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2352728523000015'
 citation: 'Ayesha Ali, Agha Ali Raza, Ihsan Ayyub Qazi. (2023). "Validated digital literacy measures for populations with low levels of internet experiences." <i>Development Engineering</i>. 8(2023).'
