@@ -1,15 +1,18 @@
 ---
-title: "Paper Title Number 1"
+title: "Gamifying Media Literacy Interventions for Low Digitial Literacy Populations "
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Built a *Digital Literacy* app'
+date: 2023-03
+venue: 'Networks Systems @ LUMS'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S2352728523000015'
+citation: 'Ayesha Ali, Agha Ali Raza, Ihsan Ayyub Qazi. (2023). "Validated digital literacy measures for populations with low levels of internet experiences." <i>Development Engineering</i>. 8(2023).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+- The digital literacy app posed as a sequel to the paper ([link](https://www.sciencedirect.com/science/article/pii/S2352728523000015))
+- Self-taught the inner workings of *shiny* framework in **R**
+- Explored model deployment techniques within Shiny and deployed a *Random Forest* machine learning algorithm
+- The app evaluates a person's digital literacy score (between 0 and 1) given a set of answers to a questionnaire
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S2352728523000015)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Ayesha Ali, Agha Ali Raza, Ihsan Ayyub Qazi. (2023). "Validated digital literacy measures for populations with low levels of internet experiences." <i>Development Engineering</i>. 8(2023).
