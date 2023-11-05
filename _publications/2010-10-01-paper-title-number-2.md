@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 2"
+title: "Unrolled Optimization & Matrix Completion"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2009-10-01-paper-title-number-2
+excerpt: 'Working on *Model Based Deep Learning* under the supervision of Dr.Muhammad Tahir'
+date: 2023-11-5
+venue: 'Work In Progress'
+paperurl: 'Work In Progress'
+citation: 'Work In Progress'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+- Self-taught methods and techniques in *Advanced Signal Processing*
+- Implemented some popular Deep Learning Algorithms ([Github Link](https://github.com/TalhaAhmed2000/DeepLearning))
+- Currently doing a reading course on High Dimensional Data Analysis and Compressed Sensing. Primary text being followed is [Book Link](https://book-wright-ma.github.io/Book-WM-20210422.pdf) by John Wright and Yi Ma.
+- Self-taught preliminaries like *Duality Theory* and optimization techniques like *Augmented Lagrange Multiplier - ALM* to understand the problem formulation and solve Matrix Completion.
+- Replicated results of the following papers [1](https://ieeexplore.ieee.org/document/9906418) and [2](https://ieeexplore.ieee.org/document/9906418)
+- Completed and refined a proposed algorithm *ConvMC-Net* for standard matrix completion problems. [Github Link](https://github.com/TalhaAhmed2000/convmc-net)
+- To handle robust matrix completion, currently drawing inspiration from Deep Learning techniques and applying it to the proposed *M-estimation* algorithm in paper [3](https://ieeexplore.ieee.org/document/8682657)
