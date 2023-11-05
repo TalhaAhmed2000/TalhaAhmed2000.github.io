@@ -1,10 +1,10 @@
-<!-- ---
-title: "Course Project on ISS Tracking and Velocity Measurement"
-excerpt: "Using real-time captured instances and tools like Tracker and ImageJ, the velocity of ISS was predicted."
+---
+title: "Course Group Project on Arrhythmia Detection through ECG"
+excerpt: "Implemented software capable of detecting different arrhythmia types through ECG data."
 collection: portfolio
-type: "Undergraduate Course - PHY 100: Experimental Physics Lab I"
-venue: "School of Science and Engineering"
-date: Spring 2021
+# type: "Undergraduate Course - EE 100: Engineering Laboratory"
+# venue: "School of Science and Engineering"
+# date: Fall 2020
 ---
 
-Using real-time captured instances and tools like Tracker and ImageJ, the velocity of ISS was predicted. [Lab Project Presentation](https://docs.google.com/presentation/d/1pRJkmKrW58HRmD6d7lM3M2KF-GXX7kJb/edit?usp=sharing&ouid=111485208043544286491&rtpof=true&sd=true) -->
+Implemented software capable of detecting different arrhythmia types through ECG data. [Project Video](https://www.youtube.com/watch?v=1_y10x_kIUc)

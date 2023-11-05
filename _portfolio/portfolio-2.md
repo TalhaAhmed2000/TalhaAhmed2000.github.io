@@ -1,10 +1,10 @@
 ---
-title: "Econometric and Regression Analysis"
-excerpt: "Conducted econometric and regression analysis on a demographic dataset to investigate the effect of gender on academic performance."
+title: "Clustering, Association, and Frequent Pattern Mining"
+excerpt: "Wrote a detailed report on data analysis of a drug consumption-related dataset, focusing on factors affecting drug consumption in Connecticut, USA."
 collection: portfolio
-# type: "Undergraduate Course - ECON 330: Econometrics I"
+# type: "Graduate Course - CS 432: Introduction to Data Mining"
 # venue: "School of Science and Engineering"
-# date: Fall 2023
+# date: Spring 2023
 ---
 
-Carried out Econometric and Regression Analysis on a demographic dataset gathered from primary sources like a survey questionnaire. The analysis focused on tackling the research question: "Does Gender have an effect on Academic Performance?" Careful attention was paid to whether the standard OLS assumptions hold true for our model. [PDF Link](https://drive.google.com/file/d/17-xRgDDOToNxLPrDkfdH9LXif8W1puty/view?usp=sharing)
+Wrote a detailed report on data analysis of a drug consumption-related dataset. The report focused on the various factors affecting drug consumption in Connecticut, USA. State-of-the-art algorithms for clustering like DBSCAN, Apriori, and Fpgrowth for Association and Frequent Pattern Mining were employed to make data-driven inferences regarding drug consumption in Connecticut, USA. [PDF Link](https://drive.google.com/file/d/1z4X-lHpmY3cE8kQfU33Z3Ny3l5mKSHDd/view?usp=sharing)

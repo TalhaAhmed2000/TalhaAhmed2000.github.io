@@ -1,10 +1,10 @@
-<!-- ---
-title: "Sentiment Analysis on Audio Recordings"
-excerpt: "Identification and extraction of features followed by a mathematical background of some popular machine learning methods and their performance evaluation."
+---
+title: "Course Project on ISS Tracking and Velocity Measurement"
+excerpt: "Using real-time captured instances and tools like Tracker and ImageJ, the velocity of ISS was predicted."
 collection: portfolio
-type: "Graduate Course - CS 535: Machine Learning"
-venue: "School of Science and Engineering"
-date: Spring 2023
+# type: "Undergraduate Course - PHY 100: Experimental Physics Lab I"
+# venue: "School of Science and Engineering"
+# date: Spring 2021
 ---
 
-Identification and extraction of features followed by a mathematical background of some popular machine learning methods and their performance evaluation. [PDF Link](https://drive.google.com/file/d/1oFGhrW1ZZqHwuc3eh6q7prG9R0MhQD-c/view?usp=sharing) -->
+Using real-time captured instances and tools like Tracker and ImageJ, the velocity of ISS was predicted. [Lab Project Presentation](https://docs.google.com/presentation/d/1pRJkmKrW58HRmD6d7lM3M2KF-GXX7kJb/edit?usp=sharing&ouid=111485208043544286491&rtpof=true&sd=true)
