@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Self-Learning Journey"
 author_profile: true
 redirect_from: 
   - /md/
