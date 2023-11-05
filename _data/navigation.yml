@@ -1,13 +1,18 @@
 # main links links
 main:
+  - title: "CV"
+    url: /cv/
+  
+  - title: "Teaching + Work Experience"
+    url: /teaching/ 
+
   - title: "Self-Learning Journey"
-    url: /selflearning-journey/
+    url: /year-archive/
 
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "Teaching + Work Experience"
-    url: /teaching/    
+     
     
   # - title: "Portfolio"
   #   url: /portfolio/
@@ -15,8 +20,7 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+ 
     
   # - title: "Guide"
   #   url: /markdown/
