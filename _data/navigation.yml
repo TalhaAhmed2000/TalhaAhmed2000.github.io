@@ -6,7 +6,7 @@ main:
   - title: "Teaching + Work Experience"
     url: /teaching/ 
 
-  - title: "Self-Learning Journey"
+  - title: "Guide"
     url: /markdown/
 
   - title: "Talks"
@@ -21,8 +21,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
   
-  - title: "Random"
-    url: /random/
+  - title: "Self-Learning Journey"
+    url: /learnjourney/
     
     
   # - title: "Guide"
