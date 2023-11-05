@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Course Project on ISS Tracking and Velocity Measurement"
 excerpt: "Using real-time captured instances and tools like Tracker and ImageJ, the velocity of ISS was predicted."
 collection: portfolio
@@ -7,4 +7,4 @@ venue: "School of Science and Engineering"
 date: Spring 2021
 ---
 
-Using real-time captured instances and tools like Tracker and ImageJ, the velocity of ISS was predicted. [Lab Project Presentation](https://docs.google.com/presentation/d/1pRJkmKrW58HRmD6d7lM3M2KF-GXX7kJb/edit?usp=sharing&ouid=111485208043544286491&rtpof=true&sd=true)
+Using real-time captured instances and tools like Tracker and ImageJ, the velocity of ISS was predicted. [Lab Project Presentation](https://docs.google.com/presentation/d/1pRJkmKrW58HRmD6d7lM3M2KF-GXX7kJb/edit?usp=sharing&ouid=111485208043544286491&rtpof=true&sd=true) -->
