@@ -9,7 +9,6 @@ location: "Lahore, Pakistan"
 ---
 
 <details>
-<summary>Click to see more</summary>
 
 ![Workshop Image](/images/STATA_Training.png){: .align-center width="300px"}
 
