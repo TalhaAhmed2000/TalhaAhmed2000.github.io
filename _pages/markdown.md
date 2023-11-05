@@ -21,7 +21,7 @@ This section is dedicated to recounting my never-ending learning journey. I am c
 #### Overview:
 - The author ingeniously uses the concepts of policy/value set iteration i.e. generalized versions of policy and value iteration respecitvely to pose the standard bellman optimality algorithm as a *exact* mini-max game.
 - Furthemore, the author shows great understanding of contraction mappings and using it to prove that the value set iteration algorithm shows atleast linear convergence for standard MG's unlike some variants of VI which require expnonential/polynomial convergence.
-- Moreover, the author also shows that by optimally choosing a set of policies at the begining of each iteration (denoted as Policy Switching), VSI can potentially improve the convergence speed in terms of the number of iterations.
+- Moreover, the author also shows that by optimally choosing a set of policies at the begining of each iteration (denoted as Policy Switching - PS), VSI can potentially improve the convergence speed in terms of the number of iterations.
 
 #### Key Takeaways:
 - Before reading this paper, I had only come across *exact* terminology when studying gradient descent and its various learning step methodologies including backtracking line search, inexact line search and **exact** line search. 
