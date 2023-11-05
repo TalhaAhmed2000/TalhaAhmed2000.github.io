@@ -8,6 +8,8 @@ date: December 2022 - January 2023
 location: "Lahore, Pakistan"
 ---
 
+[Details](/teaching/2022-fall-teaching-1)
+
 <details>
 
 ![Workshop Image](/images/STATA_Training.png){: .align-center width="300px"}
