@@ -14,6 +14,53 @@ I owe a debt of gratitude to my esteemed professors, Dr. Ihsan Ayub Qazi, Dr. Mu
 
 This section is dedicated to recounting my never-ending learning journey. I am committed to facing challenges head-on, exploring peer-reviewed journals, implementing newfound knowledge wherever possible, and, most importantly, embracing a spirit of perpetual learning.
 
+### Recount 1: Paper Title
+
+**Citation:** [Author(s). "Paper Title." *Journal Name*, Year, Volume, Pages, DOI](Link to paper)
+
+#### Overview:
+- Briefly describe the key concepts and findings of the paper.
+- Highlight the methodology and approach used by the authors.
+
+#### Key Takeaways:
+- Mention what you found most interesting or impactful in this paper.
+- Identify any questions or areas that you believe require further exploration.
+
+#### Notes/Implementation:
+- Provide references to your personal notes or any implementation you've done related to this paper.
+- Include links to any code or documentation you've created.
+
+### Recount 2: Paper Title
+
+**Citation:** [Author(s). "Paper Title." *Journal Name*, Year, Volume, Pages, DOI](Link to paper)
+
+#### Overview:
+- Summarize the core ideas and main contributions of the paper.
+- Discuss any unique methodologies or models presented.
+
+#### Key Takeaways:
+- Share your thoughts on the most intriguing aspects or insights from the paper.
+- Point out any unresolved questions or topics that deserve further research.
+
+#### Notes/Implementation:
+- Include references to your own notes and any practical implementations or experiments you've conducted.
+- Provide links to your code, if applicable.
+
+### Recount 3: Paper Title
+
+**Citation:** [Author(s). "Paper Title." *Journal Name*, Year, Volume, Pages, DOI](Link to paper)
+
+#### Overview:
+- Provide an overview of the paper's subject matter and its significance.
+- Explain the research methodology used in the paper.
+
+#### Key Takeaways:
+- Share your thoughts on what you found most remarkable or novel in the paper.
+- Mention any gaps or questions that you believe should be explored in the future.
+
+#### Notes/Implementation:
+- Reference your personal notes or any practical implementations related to this paper.
+- Include links to any code or documentation you've created during your study.
 
 
 
