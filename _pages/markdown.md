@@ -46,10 +46,10 @@ This section is dedicated to recounting my never-ending learning journey. I am c
 
 #### Key Takeaways:
 - What I found most interesting was the fact that even with as less as 1 training example per label, the classifier is asymtomatically optimal thereby reducing the effect of curse of dimensionality unlike some other algorithms like KNN or Naive Bayes, where as $n$ increases, the error probability increases. This does seem to imply that the algorithm can theoretically and practically outperform Deep Neural Networks (DNN) as they are data hungry.
-- Furthermore, there exists a class of algorithms, known as *Independant Component Analysis*(\textbf{ICA}) which can transform dependant, non-identitcally distributed feature vectors into i.-non.i.d.
+- Furthermore, there exists a class of algorithms, known as *Independant Component Analysis*({ICA}) which can transform dependant, non-identitcally distributed feature vectors into i.-non.i.d.
 
 #### Notes/Thoughts/Future Direction:
-- Maybe a good idea to start looking into ICA algorithms since that seems to be the starting point when coming across d.non.i.d which is most often come across in practice.
+- Maybe a good idea to start looking into ICA algorithms since that seems to be the starting point when dealing with d.non.i.d which is most often come across in practice.
 - One question comes to mind when the author assumed that the distribution of the feature vector with one label is not a *pertubation* of the distribution of the feature vector with another label. At first, one may conclude that having this assumption violated would negate the i-non.i.d assumption which is critical to the algorithm proposed. But why then we have to assume this is the case and not use the aforementioned ICA algorithm to make it i-non.i.d? Clarity may come when I read more into ICA and perhaps its limitations?
 - The algorithm definetly seems quite straightforward to implement seeing as they nicely explained the steps for replicating the process one by one. 
 
