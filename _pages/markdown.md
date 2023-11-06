@@ -33,19 +33,22 @@ This section is dedicated to recounting my never-ending learning journey. I am c
 - Currently working on implementing VSI and VSI - PS on 2D 3x3/4x4 Tic Tac Toe.
 - Also thinking of extending it to 3D Tic Tac Toe but that may require some Deep Neural Networks to come into play to overcome the issue of curse of dimensionality.
 
-### Recount 2: Paper Title - Work in Progress
+### Recount 2: Paper Title - On Supervised Classification of Feature Vectors with Independent and Non-Identically Distributed Elements
 
-**Citation:** [Author(s). "Paper Title." *Journal Name*, Year, Volume, Pages, DOI](Link to paper)
+**Citation:** [Shahrivari, Farzad, and Nikola Zlatanov. "On Supervised Classification of Feature Vectors with Independent and Non-Identically Distributed Elements." Entropy 23.8 (2021): 1045.](https://www.mdpi.com/1099-4300/23/8/1045)
 
 #### Overview:
-- Summarize the core ideas and main contributions of the paper.
-- Discuss any unique methodologies or models presented.
+- The author proposes the *Nearest Empirical Distribution* Algorithm for supervised classification problems where the feature vectors are independent but not identically distributed (denoted by i.n.i.d).
+- The author claims no novelty regarding the algorithm itself but, most importantly, in proving the following two key points:
+  - Deriving an upper bound on the error probability (denoted by $\mathcal{P}_{e} = \operatorname{Pr}(X \neq \hat{X})$), which implies better interpretability and explainability—two key aspects to pursue in any machine learning model.
+  - Showing that there exists at least one classifier with an asymptotically optimal error probability when at least one training feature vector per label is available, provided the length of the feature vector $n$ is large, i.e., $\operatorname{plim} \mathcal{P}_{e} = 0$.
+
 
 #### Key Takeaways:
 - Share your thoughts on the most intriguing aspects or insights from the paper.
 - Point out any unresolved questions or topics that deserve further research.
 
-#### Notes/Implementation:
+#### Notes/Implementation/Future thing:
 - Include references to your own notes and any practical implementations or experiments you've conducted.
 - Provide links to your code, if applicable.
 
