@@ -29,7 +29,7 @@ This section is dedicated to recounting my never-ending learning journey. I am c
 - Here similarly in this picture, exact value set iteration i.e. choosing optimal *Expected Future Discounted Reward/Cost* at each iteration does seem to work quite well.  
 - However, I believe its precisely due to the exact approach the author expresses that the algorithm is vulnerable to the curse of dimensionality and for large state/action spaces, the VSI algorithm becomes intractable. 
 
-#### Notes/Implementation:
+#### Notes/Thoughts/Future Direction:
 - Currently working on implementing VSI and VSI - PS on 2D 3x3/4x4 Tic Tac Toe.
 - Also thinking of extending it to 3D Tic Tac Toe but that may require some Deep Neural Networks to come into play to overcome the issue of curse of dimensionality.
 
@@ -41,16 +41,17 @@ This section is dedicated to recounting my never-ending learning journey. I am c
 - The author proposes the *Nearest Empirical Distribution* Algorithm for supervised classification problems where the feature vectors are independent but not identically distributed (denoted by i.n.i.d).
 - The author claims no novelty regarding the algorithm itself but, most importantly, in proving the following two key points:
   - Deriving an upper bound on the error probability (denoted by $\mathcal{P}_{e} = \operatorname{Pr}(X \neq \hat{X})$), which implies better interpretability and explainability—two key aspects to pursue in any machine learning model.
-  - Showing that there exists at least one classifier with an asymptotically optimal error probability when at least one training feature vector per label is available, provided the length of the feature vector $n$ is large, i.e., $\operatorname{plim} \mathcal{P}_{e} = 0$.
+  - Showing that there exists at least one classifier with an asymptotically optimal error probability when at least one training feature vector per label is available, provided the length of the feature vector $n$ is large, i.e., $\mathcal{P}_{e} \stackrel{n}{\rightarrow} 0$.
 
 
 #### Key Takeaways:
-- Share your thoughts on the most intriguing aspects or insights from the paper.
-- Point out any unresolved questions or topics that deserve further research.
+- What I found most interesting was the fact that even with as less as 1 training example per label, the classifier is asymtomatically optimal thereby reducing the effect of curse of dimensionality unlike some other algorithms like KNN or Naive Bayes, where as $n$ increases, the error probability increases. This does seem to imply that the algorithm can theoretically and practically outperform Deep Neural Networks (DNN) as they are data hungry.
+- Furthermore, there exists a class of algorithms, known as *Independant Component Analysis*(\textbf{ICA}) which can transform dependant, non-identitcally distributed feature vectors into i.-non.i.d.
 
-#### Notes/Implementation/Future thing:
-- Include references to your own notes and any practical implementations or experiments you've conducted.
-- Provide links to your code, if applicable.
+#### Notes/Thoughts/Future Direction:
+- Maybe a good idea to start looking into ICA algorithms since that seems to be the starting point when coming across d.non.i.d which is most often come across in practice.
+- One question comes to mind when the author assumed that the distribution of the feature vector with one label is not a *pertubation* of the distribution of the feature vector with another label. At first, one may conclude that having this assumption violated would negate the i-non.i.d assumption which is critical to the algorithm proposed. But why then we have to assume this is the case and not use the aforementioned ICA algorithm to make it i-non.i.d? Clarity may come when I read more into ICA and perhaps its limitations?
+- The algorithm definetly seems quite straightforward to implement seeing as they nicely explained the steps for replicating the process one by one. 
 
 ### Recount 3: Paper Title - Work in Progress
 
