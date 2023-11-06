@@ -53,7 +53,7 @@ This section is dedicated to recounting my never-ending learning journey. I am c
 - One question comes to mind when the author assumed that the distribution of the feature vector with one label is not a *pertubation* of the distribution of the feature vector with another label. At first, one may conclude that having this assumption violated would negate the i-non.i.d assumption which is critical to the algorithm proposed. But why then we have to assume this is the case and not use the aforementioned ICA algorithm to make it i-non.i.d? Clarity may come when I read more into ICA and perhaps its limitations?
 - The algorithm definetly seems quite straightforward to implement seeing as they nicely explained the steps for replicating the process one by one. 
 
-### Recount 3: Paper Title - Work in Progress
+### Recount 3: Paper Title - Work In Progress
 
 **Citation:** [Author(s). "Paper Title." *Journal Name*, Year, Volume, Pages, DOI](Link to paper)
 
