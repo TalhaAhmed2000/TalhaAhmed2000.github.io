@@ -12,7 +12,7 @@ I'm an undergraduate senior at Lahore University of Management Science (LUMS), p
 
 My research interests encompass a wide range of exciting topics, including:
 - Compressed Sensing 📡
-- Generative Learning 🤖
+<!-- - Generative Learning 🤖 -->
 - Reinforcement Learning 🕹️
 - Unrolled Optimization Frameworks 📈
 
