@@ -1,5 +1,5 @@
 ---
-title: "Gamifying Media Literacy Interventions for Low Digitial Literacy Populations "
+title: "Digital Literacy App Development "
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Built a *Digital Literacy* app using shiny framework in **R** under the supervision of Dr.Ihsan Ayub Qazi'
