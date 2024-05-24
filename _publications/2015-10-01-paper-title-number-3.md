@@ -9,7 +9,7 @@ date: 2023-9-5
 # paperurl: ''
 # citation: ''
 ---
-The project with Dr. Hassan Mohy-ud-Din [Website](https://sites.google.com/view/ctil-lums/home?authuser=0) involved the following
+The project with Dr. Hassan Mohy-ud-Din ([Website](https://sites.google.com/view/ctil-lums/home?authuser=0)) involved the following
 
 - Doing readings on various prominent mathematical inequalities in the field of data science and information theory.
 - Compiling reading materials from YouTube videos, journals, conference papers, etc.

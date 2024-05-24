@@ -8,7 +8,7 @@ date: 2023-11-5
 # paperurl: 'Work In Progress'
 # citation: 'Work In Progress'
 ---
-We started this project with Dr.Muhammad Tahir [Linkedin](https://www.linkedin.com/in/muhammad-tahir-aa421590/?originalSubdomain=pk) in Summer 2023 and it concluded in May 2024. A breif compilation of what we did is shown below.
+We started this project with Dr.Muhammad Tahir ([Linkedin](https://www.linkedin.com/in/muhammad-tahir-aa421590/?originalSubdomain=pk)) in Summer 2023 and it concluded in May 2024. A breif compilation of what we did is shown below.
 
 - Self-taught fundamental methods and techniques in *Advanced Signal Processing*
 - Implemented some popular Deep Learning Algorithms ([Github Link](https://github.com/TalhaAhmed2000/DeepLearning))
