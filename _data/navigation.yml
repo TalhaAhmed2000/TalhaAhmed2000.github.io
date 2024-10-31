@@ -6,8 +6,8 @@ main:
   - title: "Teaching + Work Experience"
     url: /teaching/ 
 
-  - title: "Self-Learning Journey"
-    url: /markdown/
+  # - title: "Self-Learning Journey"
+  #   url: /markdown/
 
   # - title: "Talks"
   #   url: /talks/    
