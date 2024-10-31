@@ -1,6 +1,7 @@
 ---
 title: "Digital Literacy App Development "
 collection: publications
+time_period: Summer 2023 - May 2024
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Built a *Digital Literacy* app using shiny framework in **R** under the supervision of Dr.Ihsan Ayub Qazi'
 date: 2023-03-20
