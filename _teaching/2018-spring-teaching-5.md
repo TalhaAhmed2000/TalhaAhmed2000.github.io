@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistantship"
 collection: teaching
-type: "MS: ACTA 6304: Advanced Machine Learning"
+type: "MS Course: ACTA 6304: Advanced Machine Learning"
 permalink: /teaching/2024-spring-teaching-5
 venue: "Suleman Dawood School of Business"
 date: Sept 2024 - Present
