@@ -80,12 +80,15 @@ layout: default
               <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
           {% endif %}
 
-            <!-- Custom Time Period line -->
+          <!-- Custom Time Period line -->
           {% if page.time_period %}
-            <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Time Period:</strong> {{ page.time_period }}</p>
+              <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Time Period:</strong> {{ page.time_period }}</p>
+          {% else %}
+              {% comment %} 
+              <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Time Period:</strong> {{ page.date | date: "%B %d, %Y" }}</p>
+              {% endcomment %}
           {% endif %}
         
-            
           {% if page.collection == 'teaching' %}
               <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% elsif page.venue and page.date %}
@@ -98,10 +101,8 @@ layout: default
               <p>Recommended citation: {{ page.citation }} </p>
           {% endif %}
         </header>
-        {% endunless %}
+      {% endunless %}
       
-      
-
       <section class="page__content" itemprop="text">
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
