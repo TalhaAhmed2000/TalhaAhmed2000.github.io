@@ -2,7 +2,7 @@
 title: "Teaching Assitantship"
 collection: teaching
 type: "Graduate Course: CS 535/EE 514: Machine Learning"
-permalink: /teaching/2024-spring-teaching-4
+permalink: /teaching/2024-spring-teaching-6
 venue: "School of Science and Engineering"
 date: January 2024 - May 2024
 location: "Lahore, Pakistan"
