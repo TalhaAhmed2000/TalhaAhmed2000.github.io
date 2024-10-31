@@ -1,7 +1,7 @@
 ---
 title: "Reinforcement Learning Algorithms on Tic-Tac-Toe"
 excerpt: "This project, part of CS 6314: Dynamic Programming and Reinforcement Learning, aimed to train an agent capable of playing various forms of Tic-Tac-Toe, including 2D and 3D versions."
-time_period: "Fall 2023"
+# time_period: "Fall 2023"
 collection: portfolio
 # type: "Undergraduate Course - CS 6314: Dynamic Programming and Reinforcement Learning"
 # venue: "School of Science and Engineering"

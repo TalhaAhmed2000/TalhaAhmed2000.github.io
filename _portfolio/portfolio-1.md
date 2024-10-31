@@ -1,7 +1,7 @@
 ---
 title: "Econometric and Regression Analysis"
 excerpt: "Conducted econometric and regression analysis on a demographic dataset to investigate the effect of gender on academic performance."
-time_period: Fall 2022
+# time_period: Fall 2022
 collection: portfolio
 # type: "Undergraduate Course - ECON 330: Econometrics I"
 # venue: "School of Science and Engineering"
