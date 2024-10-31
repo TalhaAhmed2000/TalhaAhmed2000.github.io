@@ -1,4 +1,67 @@
+<!-- ---
+permalink: /markdown/
+title: "Self-Learning Journey"
+time_period: 
+author_profile: true
+redirect_from: 
+  - /md/
+  - /markdown.html
 ---
+
+In the ever-evolving field of data science, continuous learning is not just an option but a necessity. The rapid pace of advancements demands a commitment to self-improvement and the acquisition of new knowledge and skills. My journey into data science marks a significant shift from my original focus on econometrics and mathematics, fueled by an ever-increasing desire to deepen my understanding of complex systems.
+
+I owe a debt of gratitude to my esteemed professors, Dr. Ihsan Ayub Qazi, Dr. Muhammad Tahir, Dr. Hassan Mohy-ud-Din, Dr. Momin Ayub Uppal. Their unwavering support and guidance not only kept me motivated but also instilled in me the value of appreciating the learning process rather than solely fixating on the end results. As I navigated this transition, I recognized the importance of staying abreast of emerging technologies and methodologies, which has led me to delve into various aspects of data science.
+
+### A Broader Perspective: Exploring Foundations
+
+In my early explorations, I encountered various topics within machine learning and statistics, leading to significant insights:
+
+- **Value Set Iteration for Two-Person Zero-Sum Markov Games**
+  
+  **Citation:** [Chang, Hyeong Soo. "Value set iteration for two-person zero-sum Markov games." Automatica 76 (2017): 61-64.](https://www.sciencedirect.com/science/article/pii/S0005109816304022?casa_token=AQJCvVqQsFoAAAAA:WEBXNexF9BlhIvp_V1PyXC6byIco-Cw_FhZK1qyvCpWvOO33KEbMIoaJOdjDkjTuHolV9IoxKWU)
+
+  This paper introduced me to advanced concepts like policy/value set iteration, highlighting their applications in optimization. The author’s insights on the linear convergence of value set iteration algorithms sparked my interest in how mathematical frameworks can be leveraged for real-world problem-solving.
+
+- **Supervised Classification of Feature Vectors with Independent and Non-Identically Distributed Elements**
+
+  **Citation:** [Shahrivari, Farzad, and Nikola Zlatanov. "On Supervised Classification of Feature Vectors with Independent and Non-Identically Distributed Elements." Entropy 23.8 (2021): 1045.](https://www.mdpi.com/1099-4300/23/8/1045)
+
+  In this study, I discovered the *Nearest Empirical Distribution* algorithm, which addresses the challenge of supervised classification under varying distributions. The findings emphasized the significance of data representation and the potential for effective classification even with limited training samples. This resonated with my growing awareness of the intricacies involved in data modeling.
+
+### Narrowing Focus: The Advent of Diffusion Models
+
+As I continued my journey, I became increasingly fascinated by the potential of diffusion models in addressing complex data reconstruction and generation tasks. This interest crystallized as I began to explore how these models could revolutionize image restoration and other applications within data science.
+
+#### My Recent Work: Embracing Diffusion Models
+
+My recent research has centered on the implementation and advancement of diffusion models. I am particularly drawn to their capacity for learning robust representations in high-dimensional spaces and their ability to effectively model uncertainties in data. The transition from classical approaches to diffusion processes reflects my commitment to embracing innovative methodologies.
+
+Currently, I am focused on several key areas within diffusion models:
+
+- **Implementation of Score-Based Diffusion Models:** Exploring their potential for generating high-fidelity images and effectively denoising data in challenging scenarios.
+- **Integrating Prior Knowledge:** Leveraging techniques like Independent Component Analysis (ICA) to enhance the performance of diffusion models in situations involving non-identically distributed data.
+- **Investigating Applications in Matrix Completion:** Addressing problems related to low-rank matrix recovery, which directly aligns with my background in econometrics and statistics.
+
+### Conclusion: A Lifelong Commitment to Learning
+
+This section is dedicated to recounting my continuous learning journey. I remain committed to facing challenges head-on, exploring peer-reviewed journals, implementing newfound knowledge, and, most importantly, embracing a spirit of perpetual learning. As I delve deeper into the realm of diffusion models, I am excited about the possibilities that lie ahead and the impact that this evolving field can have on various domains. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ---
 permalink: /markdown/
 title: "Self-Learning Journey"
 time_period: 
@@ -11,7 +74,7 @@ redirect_from:
 
 In the ever-evolving field of data science, continuous learning is not just an option but a necessity. The rapid pace at which this field is growing demands a commitment to self-improvement and the acquisition of new knowledge and skills. My journey into data science, a significant shift from my original focus in econometrics and mathematics, was accompanied by an even greater need for self-learning.
 
-I owe a debt of gratitude to my esteemed professors, Dr. Ihsan Ayub Qazi, Dr. Muhammad Tahir, and Dr. Hassan Mohy-ud-Din. Their unwavering support and guidance not only kept me motivated but also taught me the value of appreciating the learning process, rather than solely fixating on the end results.
+I owe a debt of gratitude to my esteemed professors, Dr. Ihsan Ayub Qazi, Dr. Muhammad Tahir, Dr. Hassan Mohy-ud-Din and Dr. Momin Ayub Uppal. Their unwavering support and guidance not only kept me motivated but also taught me the value of appreciating the learning process, rather than solely fixating on the end results.
 
 This section is dedicated to recounting my never-ending learning journey. I am committed to facing challenges head-on, exploring peer-reviewed journals, implementing newfound knowledge wherever possible, and, most importantly, embracing a spirit of perpetual learning.
 
@@ -68,7 +131,9 @@ This section is dedicated to recounting my never-ending learning journey. I am c
 
 #### Notes/Implementation:
 - Reference your personal notes or any practical implementations related to this paper.
-- Include links to any code or documentation you've created during your study.
+- Include links to any code or documentation you've created during your study. -->
+
+
 
 
 
