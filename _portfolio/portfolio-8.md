@@ -1,6 +1,7 @@
 ---
 title: "CS 5302: Generative AI for Natural Language and Speech Processing"
 excerpt: "This project, part of CS 5302: Generative AI for Natural Language and Speech Processing, an application that can interpret, translate, and vocalize spoken language in real-time, and is specifically catered for patient-doctor conversations"
+time_period: "Spring 2023"
 collection: portfolio
 ---
 

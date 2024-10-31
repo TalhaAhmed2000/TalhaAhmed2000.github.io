@@ -1,6 +1,7 @@
 ---
 title: "Course Project on ISS Tracking and Velocity Measurement"
 excerpt: "Using real-time captured instances and tools like Tracker and ImageJ, the velocity of ISS was predicted."
+time_period: "Spring 2021"
 collection: portfolio
 # type: "Undergraduate Course - PHY 100: Experimental Physics Lab I"
 # venue: "School of Science and Engineering"

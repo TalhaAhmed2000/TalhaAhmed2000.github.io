@@ -2,6 +2,7 @@
 title: "Panel Data and Tobit Analysis on Health Care Dataset"
 excerpt: "Using a german healthcare dataset which is of panel data nature, we explored the research question What are the factors that determine the number
 of recent doctor or hospital visits of an individual?"
+time_period: "Fall 2023"
 collection: portfolio
 # type: "Undergraduate Course - ECON 438: Econometrics II"
 # venue: "School of Science and Engineering"

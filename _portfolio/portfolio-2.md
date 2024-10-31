@@ -1,6 +1,7 @@
 ---
 title: "Clustering, Association, and Frequent Pattern Mining"
 excerpt: "Wrote a detailed report on data analysis of a drug consumption-related dataset, focusing on factors affecting drug consumption in Connecticut, USA."
+time_period: "Spring 2023"
 collection: portfolio
 # type: "Graduate Course - CS 432: Introduction to Data Mining"
 # venue: "School of Science and Engineering"

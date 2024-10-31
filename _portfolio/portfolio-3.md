@@ -1,6 +1,7 @@
 ---
 title: "Sentiment Analysis on Audio Recordings"
 excerpt: "Identification and extraction of features followed by a mathematical background of some popular machine learning methods and their performance evaluation."
+time_period: "Spring 2023"
 collection: portfolio
 # type: "Graduate Course - CS 535: Machine Learning"
 # venue: "School of Science and Engineering"
