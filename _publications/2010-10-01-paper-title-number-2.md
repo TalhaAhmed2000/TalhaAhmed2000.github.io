@@ -1,6 +1,7 @@
 ---
 title: "Unrolled Optimization & Matrix Completion"
 collection: publications
+time_period: Summer 2023 - May 2024
 permalink: /publication/2009-10-01-paper-title-number-2
 excerpt: 'Worked on *Model Based Deep Learning* under the supervision of Dr.Muhammad Tahir'
 date: 2023-11-5

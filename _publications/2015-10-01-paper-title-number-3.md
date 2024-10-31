@@ -1,6 +1,7 @@
 ---
 title: "Mathematical Inequalities with Applications to Data Science "
 collection: publications
+time_period: Sept 2023 - Dec 2023
 permalink: /publication/2009-10-01-paper-title-number-3
 excerpt: 'Worked on a semester long project on compiling detailed, concise notes on prominent mathematical
 inequalities and their applications to fields of data science, information theory etc under the supervision of Dr.Hassan Mohy-Ud-Din'
