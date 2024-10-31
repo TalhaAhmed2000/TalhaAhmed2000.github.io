@@ -1,13 +1,12 @@
 ---
-title: "Teaching Assitantship"
+title: "Teaching Assistantship"
 collection: teaching
-type: "Graduate Course: CS 535/EE 514: Machine Learning"
-permalink: /teaching/2024-spring-teaching-4
-venue: "School of Science and Engineering"
-date: January 2024 - May 2024
+type: "MS: ACTA 6304: Advanced Machine Learning"
+permalink: /teaching/2024-spring-teaching-5
+venue: "Suleman Dawood School of Business"
+date: Sept 2024 - Present
 location: "Lahore, Pakistan"
 excerpt: "TA of Professor Momin Ayub Uppal"
-
 ---
 
-As a Teaching Assistant for Professor Momin Ayub Uppal ([Website](https://lums.edu.pk/lums_employee/2771)), I had various responsibilities during the ‘CS 535: Machine Learning’ course in Spring 2024. My duties included holding weekly office hours, reviewing, invigilating, and grading quizzes, as well as creating, reviewing, solving assignments and uploading their tutorials. I also engaged in semi-formal student counseling. You can find a sample assignment and its solution I made on Naive Bayes and Estimation Methods [here](https://drive.google.com/drive/folders/1ugQZqbf_XW8eJjFd3UmraRaIUvZUHZNk?usp=sharing)
+As a Teaching Assistant for Professor Momin Ayub Uppal ([Website](https://lums.edu.pk/lums_employee/2771)) in the 'ACTA 6304: Advanced Machine Learning' course for the Master's in Accounting and Analytics program in Fall 2024, I was primarily responsible for designing assignments and labs tailored to meet the needs of business-oriented students. While the course is titled 'Advanced Machine Learning,' the content largely overlaps with the Machine Learning course I TA'ed in Spring 2024, primarily due to the students' limited programming and mathematical backgrounds. My duties included conducting weekly office hours, supervising lab sessions, and creating, reviewing, and solving assignments. Additionally, I provided semi-formal student counseling to support academic success. A collection of assignments and labs, along with their solutions, can be found [here](https://drive.google.com/drive/folders/1iCXz2kx5Hp5O-m5s9w3PWTWS79jpGCc6?usp=sharing).
