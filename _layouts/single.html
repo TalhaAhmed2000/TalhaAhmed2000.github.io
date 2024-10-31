@@ -84,10 +84,11 @@ layout: default
             <!-- Custom Time Period line -->
           {% if page.time_period %}
               <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Time Period:</strong> {{ page.time_period }}</p>
-          {% else %}
+          <!--Changed!-->
+          <!-- {% else %} -->
               <!-- Fall back to date if no time_period is specified -->
-              <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Time Period:</strong> <time datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
-          {% endif %}
+              <!-- <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Time Period:</strong> <time datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
+          {% endif %} -->
             
           {% if page.collection == 'teaching' %}
               <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
