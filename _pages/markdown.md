@@ -1,6 +1,7 @@
 ---
 permalink: /markdown/
 title: "Self-Learning Journey"
+time_period: 
 author_profile: true
 redirect_from: 
   - /md/
