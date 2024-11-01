@@ -17,6 +17,6 @@ Collaborating with Dr. Muhammad Tahir ([LinkedIn](https://www.linkedin.com/in/mu
 
 - **Evaluating Semantic Consistency**: A significant portion of our work also centers on evaluating diffusion models to ensure they generate semantically consistent and meaningful images, akin to those produced by recent advancements like Stable Diffusion 3. We will explore how to leverage this capability—either through attention maps or embeddings—extrapolating these insights within unsupervised frameworks for downstream applications, such as semantic correspondence.
 
-- **Unified Survey**: This research complements the ongoing work with Dr. Hassan Mohy-ud-Din on *Theory and Practice of Diffusion Models in Medical Imaging and Inverse Problems*. Insights and information on both projects can be found in our comprehensive survey, accessible [here](https://drive.google.com/file/d/1t3xp9uJ5ZLkjiKQ1J823ohtjD6U7dgZN/view?usp=sharing).
+- **Unified Survey**: This research complements the ongoing work with Dr. Hassan Mohy-ud-Din on *Theory and Practice of Diffusion Models in Medical Imaging and Inverse Problems*. Insights and information on both projects can be found in our comprehensive survey, accessible [here](https://drive.google.com/drive/folders/1roK1ScRDl3pC-Bq70CJ_pRBRIHqOXYjH?usp=sharing).
 
 
