@@ -11,7 +11,7 @@ date: 2024-06-01
 ---
 Collaborating with Dr. Muhammad Tahir ([LinkedIn](https://www.linkedin.com/in/muhammad-tahir-aa421590/?originalSubdomain=pk)), this project aims to enhance the interpretability and control of diffusion models, particularly for signal processing applications where input signals deviate from conventional white noise.
 
-- **Adapting Diffusion Models**: Our research aims to address the challenges posed by complex input signal distributions, such as Gaussian mixture model noise and structures involving low-rank and sparsity. We aim to leverage leverag score-based and flow-matching techniques to effectively adapt diffusion models to these scenarios.
+- **Adapting Diffusion Models**: Our research aims to address the challenges posed by complex input signal distributions, such as Gaussian mixture model noise and structures involving low-rank and sparsity. We aim to leverage score-based and flow-matching techniques to effectively adapt diffusion models to these scenarios.
 
 - **Transporting Low-Rank Representations**: Our initial approach focuses on “transporting” low-rank representations to more familiar domains, allowing the score-based prior to adapt effectively. A related work like ‘[T-LOCO Edit](https://arxiv.org/pdf/2409.02374),’ utilizes the inherent low-rank structure of the Jacobian during the ‘Posterior Mean Prediction’ update. This technique facilitates training-free, unsupervised, interpretable, and controllable image editing but does not assume the inherent structure of the input is low-rank.
 
