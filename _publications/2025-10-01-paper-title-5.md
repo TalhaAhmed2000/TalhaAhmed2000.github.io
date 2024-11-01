@@ -9,9 +9,14 @@ date: 2024-06-01
 # paperurl: ''
 # citation: ''
 ---
-Working alongside Dr. Muhammad Tahir ([LinkedIn](https://www.linkedin.com/in/muhammad-tahir-aa421590/?originalSubdomain=pk)), this project aims to advance the interpretability and control mechanisms of diffusion models, specifically tailored for applications in signal processing and semantic correspondence. Notably, this research overlaps with the work being conducted with Dr. Hassan, *Theory and Practice of Diffusion Models in Medical Imaging and Inverse Problems*, and hence information on both projects can be found in the ongoing survey accessible [here](https://drive.google.com/drive/folders/1D-vG6jOiDuBTMg74H26bAwi5SuM7A1tS?usp=sharing).
+Collaborating with Dr. Muhammad Tahir ([LinkedIn](https://www.linkedin.com/in/muhammad-tahir-aa421590/?originalSubdomain=pk)), this project aims to enhance the interpretability and control of diffusion models, particularly for signal processing applications where input signals deviate from conventional white noise.
 
-Some of the specific research questions we have been exploring include:
+- **Adapting Diffusion Models**: Our research aims to address the challenges posed by complex input signal distributions, such as Gaussian mixture model noise and structures involving low-rank and sparsity. We aim to leverage leverag score-based and flow-matching techniques to effectively adapt diffusion models to these scenarios.
 
-- How can diffusion models be adapted for signal processing applications where input signals exhibit complex distributions, such as salt-and-pepper noise, rather than conventional Gaussian noise?
-- How can we ensure that the generated images are semantically meaningful and consistent with the input image such as those produced by StableDiffusion? And how can we extract that for further extrapolation in an unsupervised manner?
+- **Transporting Low-Rank Representations**: Our initial approach focuses on “transporting” low-rank representations to more familiar domains, allowing the score-based prior to adapt effectively. A related work like ‘[T-LOCO Edit](https://arxiv.org/pdf/2409.02374),’ utilizes the inherent low-rank structure of the Jacobian during the ‘Posterior Mean Prediction’ update. This technique facilitates training-free, unsupervised, interpretable, and controllable image editing but does not assume the inherent structure of the input is low-rank.
+
+- **Evaluating Semantic Consistency**: A significant portion of our work also centers on evaluating diffusion models to ensure they generate semantically consistent and meaningful images, akin to those produced by recent advancements like Stable Diffusion 3. We will explore how to leverage this capability—either through attention maps or embeddings—extrapolating these insights within unsupervised frameworks for downstream applications, such as semantic correspondence.
+
+- **Unified Survey**: This research complements the ongoing work with Dr. Hassan Mohy-ud-Din on *Theory and Practice of Diffusion Models in Medical Imaging and Inverse Problems*. Insights and information on both projects can be found in our comprehensive survey, accessible [here](https://drive.google.com/drive/folders/1D-vG6jOiDuBTMg74H26bAwi5SuM7A1tS?usp=sharing).
+
+
