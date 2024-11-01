@@ -17,4 +17,4 @@ This research project, in collaboration with Dr. Hassan Mohy-ud-Din ([Website](h
 
 - **Conditional Medical Image Segmentation**: A primary objective of this research is to advance "conditional medical image segmentation," where conditions may range from text prompts to volume slices. This initiative aims to enable more complex multi-class segmentations, particularly in applications like Cardiac MRI, with the potential to alleviate the computational demands associated with high-dimensional 2D and 3D segmentation tasks.
 
-- **Ongoing Work**: This project is actively progressing, and a work-in-progress survey is accessible [here](https://drive.google.com/drive/folders/1D-vG6jOiDuBTMg74H26bAwi5SuM7A1tS?usp=sharing).
+- **Ongoing Work**: This project is actively progressing, and a work-in-progress survey is accessible [here](https://drive.google.com/file/d/1t3xp9uJ5ZLkjiKQ1J823ohtjD6U7dgZN/view?usp=sharing).
