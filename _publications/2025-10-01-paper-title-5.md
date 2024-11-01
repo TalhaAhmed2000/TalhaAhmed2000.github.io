@@ -1,5 +1,5 @@
 ---
-title: "Interpretable and Controllable Diffusion Models for Signal and Semantic Correspondence"
+title: "Interpretable and Controllable Diffusion Models for Signal Processing and Semantic Correspondence"
 collection: publications
 time_period: Summer 2024 - Present
 permalink: /publication/2024-06-01-interpretable-diffusion-models
