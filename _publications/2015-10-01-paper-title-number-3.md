@@ -17,4 +17,4 @@ The project with Dr. Hassan Mohy-ud-Din ([Website](https://web.lums.edu.pk/~hmd/
 - Each inequality is accompanied by essential background information, a proof, intriguing considerations, practical applications, and a demonstration in Python/MATLAB.
 - Example: [Jensen's Inequality](https://www.dropbox.com/scl/fi/uvd6wwxslyiasaspdmngl/Jensen_s_Inequality.pdf?rlkey=csoiwfh59iyagmxy9cw66bm1v&dl=0)
 
-The complete work so far can be shared by emailing [Dr. Hassan](hassan.mohyuddin@lums.edu.pk). 
+The complete work so far can be shared by emailing [Dr. Hassan](mailto:hassan.mohyuddin@lums.edu.pk). 
