@@ -1,29 +1,32 @@
+# CHANGED: restructured navigation to match cherise-style
 # main links links
+# main:
+#   - title: "CV"
+#     url: /files/CV.pdf
+#   - title: "Teaching + Work Experience"
+#     url: /teaching/
+#   - title: "Research"
+#     url: /publications/
+#   - title: "Portfolio"
+#     url: /portfolio/
+#   - title: "Blog Posts"
+#     url: /year-archive/
+
 main:
   - title: "CV"
     url: /files/CV.pdf
-  
-  - title: "Teaching + Work Experience"
-    url: /teaching/ 
 
-  # - title: "Self-Learning Journey"
-  #   url: /markdown/
-
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Publications"
+    url: /publications/
 
   - title: "Research"
-    url: /publications/
-    
-  - title: "Portfolio"
+    url: /research/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Projects"
     url: /portfolio/
-        
+
   - title: "Blog Posts"
     url: /year-archive/
-  
-  # - title: "Self-Learning Journey"
-  #   url: /learnjourney/
-    
-    
-  # - title: "Guide"
-  #   url: /markdown/

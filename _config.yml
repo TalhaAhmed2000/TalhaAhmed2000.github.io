@@ -10,7 +10,9 @@ locale                   : "en-US"
 title                    : "Talha's Homepage"
 title_separator          : "-"
 name                     : &name "Talha Ahmed"
-description              : &description "personal description"
+# CHANGED: description
+# description              : &description "personal description"
+description              : &description "Research Assistant at ATP Lab, LUMS. Working on efficient generative models for medical imaging and inverse problems."
 url                      : https://talhaahmed2000.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "TalhaAhmed2000/TalhaAhmed2000.github.io"
@@ -82,11 +84,15 @@ analytics:
 author:
   name             : "Talha Ahmed"
   avatar           : "profile_pic.png"
-  bio              : "Aspiring Data Scientist"
+  # CHANGED: bio, employer, googlescholar
+  # bio              : "Aspiring Data Scientist"
+  bio              : "Research Assistant | ATP Lab @ LUMS"
   location         : "Lahore, Pakistan"
-  employer         :
-  pubmed           : 
-  googlescholar    : 
+  # employer         :
+  employer         : "LUMS"
+  pubmed           :
+  # googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=Hpt7VcMAAAAJ&hl=en"
   email            : "talha.123ahmed@live.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

@@ -1,14 +1,200 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Projects"
 permalink: /portfolio/
 author_profile: true
 ---
 
 {% include base_path %}
 
+A selection of course projects and independent work spanning machine learning, econometrics, signal processing, and
+software development.
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+<hr>
 
+<h2>Machine Learning &amp; AI</h2>
+
+<div class="publication-block">
+  <div class="publication-info">
+    <div class="publication-title">
+      Speech-to-Machine Translation + Speech (SMTS) — Real-Time Medical Interpreter
+    </div>
+    <h3 class="conference-name">Spring 2024 &nbsp;·&nbsp; CS 5302: Generative AI for Natural Language and Speech
+      Processing</h3>
+    <p>
+      Developed an end-to-end application that interprets, translates, and vocalizes spoken language in real time,
+      tailored specifically for patient–doctor conversations. The system aims to overcome language barriers in
+      healthcare by chaining four components: automatic speech recognition → LLM + RAG diagnosis → machine translation →
+      text-to-speech synthesis.
+    </p>
+    <ul>
+      <li><strong>Speech Recognition</strong>: Transcribes patient speech into English for downstream processing</li>
+      <li><strong>LLM + RAG</strong>: Fetches accurate, contextually grounded responses from curated medical documents
+      </li>
+      <li><strong>Machine Translation</strong>: Translates the diagnosis into the patient's target language</li>
+      <li><strong>Text-to-Speech</strong>: Vocalizes the translated output for accessible delivery</li>
+    </ul>
+    <div class="links">
+      <a href="https://drive.google.com/drive/folders/13qdQP7t7Sx0urabw9OtLoRGnuB75b3C1?usp=sharing"
+        class="pdf">Deliverables</a>
+      <a href="https://github.com/CS-5302/CS-5302-Project-Group-15" class="code">GitHub</a>
+    </div>
+  </div>
+</div>
+
+<div class="publication-block">
+  <div class="publication-info">
+    <div class="publication-title">
+      Reinforcement Learning Algorithms on Tic-Tac-Toe (2D &amp; 3D)
+    </div>
+    <h3 class="conference-name">Fall 2023 &nbsp;·&nbsp; CS 6314: Dynamic Programming and Reinforcement Learning</h3>
+    <p>
+      Trained a game-playing agent across increasingly complex Tic-Tac-Toe variants, from standard 3×3 to 4×4 and full
+      3D 4×4×4 boards. The core challenge was handling the exponentially growing state space as board dimensionality
+      increased.
+    </p>
+    <ul>
+      <li>Implemented <strong>Value Iteration</strong>, <strong>Temporal Difference Learning</strong>, and <strong>Deep
+          Q-Networks (DQN)</strong></li>
+      <li>Extended from 2D 3×3 → 4×4 → 3D 4×4×4 with progressively refined state representations</li>
+    </ul>
+    <div class="links">
+      <a href="https://drive.google.com/file/d/1g8ASKfn6jXBA8mQpd_9ybbu88d-CxZvh/view?usp=sharing"
+        class="pdf">Report</a>
+      <a href="https://github.com/Talha-Nehal-Undegrad-Study/reinforcement_learning/tree/main/Project"
+        class="code">GitHub</a>
+    </div>
+  </div>
+</div>
+
+<div class="publication-block">
+  <div class="publication-info">
+    <div class="publication-title">
+      Audio Feature Extraction and Machine Learning Classification
+    </div>
+    <h3 class="conference-name">Spring 2023 &nbsp;·&nbsp; CS 535: Machine Learning</h3>
+    <p>
+      Investigated the extraction of audio features (e.g., MFCCs, spectral centroid, chroma features) from raw audio
+      signals, followed by applying and evaluating classical machine learning classifiers on the extracted
+      representations.
+    </p>
+    <ul>
+      <li>Explored mathematical backgrounds of selected ML methods and evaluated classification performance</li>
+      <li>Benchmarked multiple classifiers and documented insights in a research-style report</li>
+    </ul>
+    <div class="links">
+      <a href="https://drive.google.com/file/d/1oFGhrW1ZZqHwuc3eh6q7prG9R0MhQD-c/view?usp=sharing"
+        class="pdf">Report</a>
+    </div>
+  </div>
+</div>
+
+<div class="publication-block">
+  <div class="publication-info">
+    <div class="publication-title">
+      Clustering, Association, and Frequent Pattern Mining on Drug Consumption Data
+    </div>
+    <h3 class="conference-name">Spring 2023 &nbsp;·&nbsp; CS 432: Introduction to Data Mining</h3>
+    <p>
+      Analysed a drug consumption dataset to answer the question: <em>What factors drive drug consumption patterns in
+        Connecticut, USA?</em> Applied state-of-the-art unsupervised and pattern mining algorithms to draw data-driven
+      inferences.
+    </p>
+    <ul>
+      <li>Applied <strong>DBSCAN</strong> for density-based clustering of consumption profiles</li>
+      <li>Used <strong>Apriori</strong> and <strong>FP-Growth</strong> for frequent pattern and association rule mining
+      </li>
+    </ul>
+    <div class="links">
+      <a href="https://drive.google.com/file/d/1z4X-lHpmY3cE8kQfU33Z3Ny3l5mKSHDd/view?usp=sharing"
+        class="pdf">Report</a>
+    </div>
+  </div>
+</div>
+
+<hr>
+
+<h2>Econometrics &amp; Statistics</h2>
+
+<div class="publication-block">
+  <div class="publication-info">
+    <div class="publication-title">
+      Panel Data and Tobit Analysis on Healthcare Utilisation
+    </div>
+    <h3 class="conference-name">Fall 2023 &nbsp;·&nbsp; ECON 438: Econometrics II</h3>
+    <p>
+      Used a German healthcare panel dataset to investigate: <em>What factors determine the number of recent doctor or
+        hospital visits?</em> Addressed this using two complementary approaches, with careful attention to assumption
+      verification.
+    </p>
+    <ul>
+      <li><strong>Tobit models</strong> on a single cross-section, with normality diagnostics</li>
+      <li><strong>Fixed and random effects panel models</strong> across multiple periods, with serial autocorrelation
+        tests</li>
+    </ul>
+    <div class="links">
+      <a href="https://drive.google.com/drive/folders/1bs1F2-XmUO2qL9M3gwKL2TXHLgkOmlAE?usp=sharing" class="pdf">Report
+        + Code</a>
+    </div>
+  </div>
+</div>
+
+<div class="publication-block">
+  <div class="publication-info">
+    <div class="publication-title">
+      Econometric Regression Analysis: Gender and Academic Performance
+    </div>
+    <h3 class="conference-name">Fall 2022 &nbsp;·&nbsp; ECON 330: Econometrics I</h3>
+    <p>
+      Conducted regression analysis on a primary-source survey dataset to investigate whether gender has a statistically
+      significant effect on academic performance. Applied OLS with careful diagnostics to test standard regression
+      assumptions.
+    </p>
+    <ul>
+      <li>Designed and administered a survey questionnaire for primary data collection</li>
+      <li>Verified OLS assumptions (homoskedasticity, normality of residuals, absence of multicollinearity)</li>
+    </ul>
+    <div class="links">
+      <a href="https://drive.google.com/file/d/17-xRgDDOToNxLPrDkfdH9LXif8W1puty/view?usp=sharing"
+        class="pdf">Report</a>
+    </div>
+  </div>
+</div>
+
+<hr>
+
+<h2>Physics &amp; Engineering</h2>
+
+<div class="publication-block">
+  <div class="publication-info">
+    <div class="publication-title">
+      Arrhythmia Detection through ECG Signal Analysis
+    </div>
+    <h3 class="conference-name">Fall 2020 &nbsp;·&nbsp; EE 100: Engineering Laboratory</h3>
+    <p>
+      Built a software system capable of detecting different arrhythmia types from raw ECG data — an early introduction
+      to biomedical signal processing that later informed my interest in medical imaging and generative models.
+    </p>
+    <div class="links">
+      <a href="https://www.youtube.com/watch?v=1_y10x_kIUc" class="pdf">Project Video</a>
+    </div>
+  </div>
+</div>
+
+<div class="publication-block">
+  <div class="publication-info">
+    <div class="publication-title">
+      ISS Tracking and Velocity Measurement
+    </div>
+    <h3 class="conference-name">Spring 2021 &nbsp;·&nbsp; PHY 100: Experimental Physics Lab I</h3>
+    <p>
+      Used real-time captured video frames and image analysis tools (Tracker and ImageJ) to estimate the velocity of the
+      International Space Station (ISS) from ground-based observations — combining physics, optics, and image
+      processing.
+    </p>
+    <div class="links">
+      <a href="https://docs.google.com/presentation/d/1pRJkmKrW58HRmD6d7lM3M2KF-GXX7kJb/edit?usp=sharing&ouid=111485208043544286491&rtpof=true&sd=true"
+        class="pdf">Presentation</a>
+    </div>
+  </div>
+</div>
